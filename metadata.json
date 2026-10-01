@@ -1,0 +1,6 @@
+{
+  "name": "SomaAfrika - African Academic Engine & Study Kiosk",
+  "description": "Pan-African curriculum textbooks, side-by-side deep focus study kiosk, Socratic academic mentor, and exit-gate assessments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
